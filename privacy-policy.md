@@ -23,6 +23,10 @@ When a library or school sets up reader profiles, we may collect:
 
 We **do not collect contact details** (such as phone numbers or emails) directly from children.
 
+**Camera Usage:**
+
+Our app uses the device camera only for two purposes — to let readers take or update their profile pictures, and to scan book IDs or ISBN codes to retrieve book details. The images captured are used solely within the app and are not stored, shared, or transmitted to any external server or third party.
+
 ---
 
 ## 3. How We Use This Information
